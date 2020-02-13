@@ -21,7 +21,7 @@ EasyCharts是使用C#语言编写的一款Excel插件，主要用于数据可视
 </p>
 
 ---
-### 如有问题，可以联系EasyCharts1.0开发者微信：EasyShu
+### 如有问题，可以联系EasyCharts1.0开发者微信：EasyCharts
 <p>
     <img src="https://github.com/Easy-Shu/EasyShu-WeChat/blob/master/WeChat_ZhangJie.png" alt="开发者微信号"  width="250" height="250">
 </p>
